@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "name": "Bounty",
+        "price": 1550,
+        "rating": 4.6,
+        "added_date": "2022-11-20"
+    },
+    {
+        "id": 2,
+        "name": "Malibu",
+        "price": 1320,
+        "rating": 4.5,
+        "added_date": "2023-10-15"
+    },
+    {
+        "id": 3,
+        "name": "Passion mango",
+        "price": 1400,
+        "rating": 4.6,
+        "added_date": "2022-10-15"
+    },
+    {
+        "id": 4,
+        "name": "Green mix",
+        "price": 1660,
+        "rating": 4.8,
+        "added_date": "2023-12-02"
+    },
+    {
+        "id": 5,
+        "name": "Berry juice",
+        "price": 1520,
+        "rating": 4.5,
+        "added_date": "2023-11-17"
+    },
+    {
+        "id": 6,
+        "name": "Sakura",
+        "price": 1790,
+        "rating": 4.9,
+        "added_date": "2023-02-16"
+    },
+    {
+        "id": 7,
+        "name": "Mojito Mood",
+        "price": 1470,
+        "rating": 4.6,
+        "added_date": "2023-06-20"
+    },
+    {
+        "id": 8,
+        "name": "JellyBeans",
+        "price": 1560,
+        "rating": 4.7,
+        "added_date": "2025-02-20"
+    },
+    {
+        "id": 9,
+        "name": "StrawberryPunch",
+        "price": 1740,
+        "rating": 4.6,
+        "added_date": "2025-02-22"
+    }
+]

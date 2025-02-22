@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name": "Bounty",
+        "price": 1550,
+        "rating": 4.6,
+        "added_date": "2022-11-20",
+        "date": "2025-02-21"
+    },
+    {
+        "id": 1,
+        "name": "Bounty",
+        "price": 1550,
+        "rating": 4.6,
+        "added_date": "2022-11-20",
+        "date": "2025-02-21"
+    },
+    {
+        "id": 1,
+        "name": "Bounty",
+        "price": 1550,
+        "rating": 4.6,
+        "added_date": "2022-11-20",
+        "date": "2025-02-21"
+    },
+    {
+        "id": 8,
+        "name": "JellyBeans",
+        "price": 1560,
+        "rating": 4.7,
+        "added_date": "2025-02-20",
+        "date": "2025-02-21"
+    },
+    {
+        "id": 1,
+        "name": "Bounty",
+        "price": 1550,
+        "rating": 4.6,
+        "added_date": "2022-11-20",
+        "date": "2025-02-21"
+    },
+    {
+        "id": 7,
+        "name": "Mojito Mood",
+        "price": 1470,
+        "rating": 4.6,
+        "added_date": "2023-06-20",
+        "date": "2025-02-22"
+    },
+    {
+        "id": 4,
+        "name": "Green mix",
+        "price": 1660,
+        "rating": 4.8,
+        "added_date": "2023-12-02",
+        "date": "2025-02-22"
+    }
+]
